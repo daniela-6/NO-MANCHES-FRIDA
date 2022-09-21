@@ -32,3 +32,9 @@ Laura Daniela Riaño Salazar
 * Conclusción 
 
 Al desarrollar aplicaciones desde una vista de programacion orientada a objetos habilita nuevas capacidades al fortalecer conceptos basicos y ponerlos en ejecución desde las diferentes tecnologias que se pueden tener
+
+
+![image](https://user-images.githubusercontent.com/107198312/191627751-0403ada2-4231-4dcc-871f-51a462fa5dc2.png)
+
+![image](https://user-images.githubusercontent.com/107198312/191627803-3b90bb2b-8c24-4ed5-8b2c-182485bce4fd.png)
+
